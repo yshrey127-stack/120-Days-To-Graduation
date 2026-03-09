@@ -1,1 +1,0 @@
-print("Hello JARVIS, Day 1 starts now from my Laptop!")
